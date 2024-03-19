@@ -1,4 +1,4 @@
-#--Learn String Manipulation by Building a Cipher--
+#--String Manipulation by Building a Cipher--
 
 text = 'mrttaqrhknsw ih puggrur'
 custom_key = 'python'
